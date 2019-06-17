@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="filename">g2002</identifier>
+<titleInfo><title>Graduate catalog, 2002-2003</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2002-2003</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2002</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1991</identifier>
+<titleInfo><title>Undergraduate catalog, 1991-1992</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1991-1992</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1991</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1985</identifier>
+<titleInfo><title>Undergraduate catalog, 1985-1986</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1985-1986</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1985</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1984</identifier>
+<titleInfo><title>Undergraduate catalog, 1984-1985</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1984-1985</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1984</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1990</identifier>
+<titleInfo><title>Undergraduate catalog, 1990-1991</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1990-1991</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1990</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g2003</identifier>
+<titleInfo><title>Graduate catalog, 2003-2004</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2003-2004</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2003</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g2001</identifier>
+<titleInfo><title>Graduate catalog, 2001-2002</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2001-2002</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2001</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1979</identifier>
+<titleInfo><title>Undergraduate catalog, 1979-1980</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1979-1980</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1979</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1992</identifier>
+<titleInfo><title>Undergraduate catalog, 1992-1993</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1992-1993</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1992</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1993</identifier>
+<titleInfo><title>Undergraduate catalog, 1993-1994</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1993-1994</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1993</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1978</identifier>
+<titleInfo><title>Undergraduate catalog, 1978-1979</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1978-1979</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1978</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g2000</identifier>
+<titleInfo><title>Graduate catalog, 2000-2001</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2000-2001</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2000</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1986-87</identifier>
+<titleInfo><title>Undergraduate catalog, 1986-1988</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1986-1988</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1986</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g2004</identifier>
+<titleInfo><title>Graduate catalog, 2004-2005</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2004-2005</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2004</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1983</identifier>
+<titleInfo><title>Undergraduate catalog, 1983-1984</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1983-1984</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1983</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1997</identifier>
+<titleInfo><title>Undergraduate catalog, 1997-1998</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1997-1998</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1997</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1996</identifier>
+<titleInfo><title>Undergraduate catalog, 1996-1997</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1996-1997</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1996</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1982</identifier>
+<titleInfo><title>Undergraduate catalog, 1982-1983</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1982-1983</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1982</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g2005</identifier>
+<titleInfo><title>Graduate catalog, 2005-2006</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2005-2006</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2005</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g2007</identifier>
+<titleInfo><title>Graduate catalog, 2007-2008</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2007-2008</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2007</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1994</identifier>
+<titleInfo><title>Undergraduate catalog, 1994-1995</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1994-1995</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1994</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1980</identifier>
+<titleInfo><title>Undergraduate catalog, 1980-1981</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1980-1981</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1980</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1981</identifier>
+<titleInfo><title>Undergraduate catalog, 1981-1982</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1981-1982</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1981</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1995</identifier>
+<titleInfo><title>Undergraduate catalog, 1995-1996</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1995-1996</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1995</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g2006</identifier>
+<titleInfo><title>Graduate catalog, 2006-2007</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2006-2007</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2006</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2008</identifier>
+<titleInfo><title>Undergraduate catalog, 2008-2009</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2008-2009</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2008</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1999</identifier>
+<titleInfo><title>Graduate catalog, 1999-2000</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1999-2000</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1999</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1998</identifier>
+<titleInfo><title>Graduate catalog, 1998-1999</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1998-1999</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1998</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1977</identifier>
+<titleInfo><title>Graduate catalog, 1977-1978</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1977-1978</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1977</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1988</identifier>
+<titleInfo><title>Graduate catalog, 1988-1989</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1988-1989</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1988</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1989</identifier>
+<titleInfo><title>Graduate catalog, 1989-1990</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1989-1990</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1989</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1976</identifier>
+<titleInfo><title>Graduate catalog, 1976-1977</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1976-1977</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1976</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1978</identifier>
+<titleInfo><title>Graduate catalog, 1978-1979</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1978-1979</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1978</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1993</identifier>
+<titleInfo><title>Graduate catalog, 1993-1994</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1993-1994</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1993</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2000</identifier>
+<titleInfo><title>Undergraduate catalog, 2000-2001</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2000-2001</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2000</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2001</identifier>
+<titleInfo><title>Undergraduate catalog, 2001-2002</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2001-2002</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2001</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1979</identifier>
+<titleInfo><title>Graduate catalog, 1979-1980</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1979-1980</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1979</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1990</identifier>
+<titleInfo><title>Graduate catalog, 1990-1991</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1990-1991</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1990</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1984</identifier>
+<titleInfo><title>Graduate catalog, 1984-1985</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1984-1985</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1984</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2003</identifier>
+<titleInfo><title>Undergraduate catalog, 2003-2004</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2003-2004</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2003</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2002</identifier>
+<titleInfo><title>Undergraduate catalog, 2002-2003</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2002-2003</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2002</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1985</identifier>
+<titleInfo><title>Graduate catalog, 1985-1986</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1985-1986</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1985</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1991</identifier>
+<titleInfo><title>Graduate catalog, 1991-1992</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1991-1992</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1991</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1995</identifier>
+<titleInfo><title>Graduate catalog, 1995-1996</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1995-1996</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1995</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1981</identifier>
+<titleInfo><title>Graduate catalog, 1981-1982</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1981-1982</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1981</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1986-87</identifier>
+<titleInfo><title>Graduate catalog, 1986-1987</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1986-1987</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1986</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2006</identifier>
+<titleInfo><title>Undergraduate catalog, 2006-2007</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2006-2007</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2006</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2007</identifier>
+<titleInfo><title>Undergraduate catalog, 2007-2008</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2007-2008</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2007</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1980</identifier>
+<titleInfo><title>Graduate catalog, 1980-1981</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1980-1981</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1980</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1994</identifier>
+<titleInfo><title>Graduate catalog, 1994-1995</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1994-1995</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1994</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1982</identifier>
+<titleInfo><title>Graduate catalog, 1982-1983</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1982-1983</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1982</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1996</identifier>
+<titleInfo><title>Graduate catalog, 1996-1997</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1996-1997</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1996</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2005</identifier>
+<titleInfo><title>Undergraduate catalog, 2005-2006</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2005-2006</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2005</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u2004</identifier>
+<titleInfo><title>Undergraduate catalog, 2004-2005</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2004-2005</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2004</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1997</identifier>
+<titleInfo><title>Graduate catalog, 1997-1998</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1997-1998</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1997</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g1983</identifier>
+<titleInfo><title>Graduate catalog, 1983-1984</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1983-1984</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1983</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1998</identifier>
+<titleInfo><title>Undergraduate catalog, 1998-1999</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1998-1999</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1998</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1999</identifier>
+<titleInfo><title>Undergraduate catalog, 1999-2000</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1999-2000</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1999</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">g2008</identifier>
+<titleInfo><title>Graduate catalog, 2008-2009</title></titleInfo> 
+<abstract>Graduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>2008-2009</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">2008</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85056177"><topic>Graduate students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1975</identifier>
+<titleInfo><title>Undergraduate catalog, 1975-1976</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1975-1976</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1975</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1976</identifier>
+<titleInfo><title>Undergraduate catalog, 1976-1977</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1976-1977</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1976</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1989</identifier>
+<titleInfo><title>Undergraduate catalog, 1989-1990</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1989-1990</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1989</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1988</identifier>
+<titleInfo><title>Undergraduate catalog, 1988-1989</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1988-1989</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1988</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="filename">u1977</identifier>
+<titleInfo><title>Undergraduate catalog, 1977-1978</title></titleInfo> 
+<abstract>Undergraduate catalog for the University of Tennessee, Knoxville; includes course descriptions, university requirements, degree requirements, and academic policies.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><namePart>University of Tennessee, Knoxville</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo>
+<dateOther>1977-1978</dateOther>
+<dateIssued keyDate="yes" encoding="edtf">1977</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026614">online catalogs</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form><digitalOrigin>reformatted digital</digitalOrigin><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107"><topic>Universities and colleges--Curricula--Catalogs</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007008299"><topic>Undergraduates</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065"><topic>Education, Higher</topic></subject>
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University Course Catalogs</title></titleInfo></relatedItem>
+<recordInfo><languageOfCataloging><languageTerm authority="iso639-2b" type="text">English</languageTerm></languageOfCataloging><recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+</modsCollection>
